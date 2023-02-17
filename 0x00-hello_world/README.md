@@ -1,1 +1,5 @@
-Hello World ---- >> basic Function in c programming 
+Hello World ---- >>  Functions basics in c programming ...
+puts()..
+printf()..
+write()..
+sizeof() operator ..
